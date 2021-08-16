@@ -2362,3 +2362,9 @@ Links：[https://en.wikipedia.org/wiki/PyPy Wikipedia] [https://zh.wikipedia.org
 
 PyPy 支持 JIT（Just-in-time compilation）和沙箱技术，可做到【比 CPython 更快的运行速度】。
 
+<h4>deep_translator</h4>
+
+Home：[https://github.com/nidhaloff/deep-translator/]
+
+一个翻译库,整合了google translate, Pns, Yandan...等
+
